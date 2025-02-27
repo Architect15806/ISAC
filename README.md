@@ -4,7 +4,7 @@ This repository will host the complete implementation of our upcoming MICCAI pap
 
 ![ISAC Pipeline](assets/Fig1.jpg)
 
-
+The principle of our segmentation approach is illustrated in the figure.
 
 <center>
   <img src="assets/GIF1.gif" width="60%" />
