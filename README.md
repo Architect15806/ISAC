@@ -4,4 +4,10 @@ This repository will host the complete implementation of our upcoming MICCAI pap
 
 ![ISAC Pipeline](assets/Fig1.jpg)
 
-![ISAC Pipeline](assets/GIF1.jpg)
+
+
+<center>
+  <img src="assets/GIF1.gif" width="60%" />
+</center>
+
+![ISAC Pipeline](assets/Fig3.jpg)
